@@ -1,5 +1,5 @@
 # CODEOWNERS
-/.github/ @akshay1155
+/.github/ @akshayreddy015
 README.md @akshayreddy015
 /src/ @akshayreddy015
-package.json @akshayreddy015
+package.json @akshay1155
