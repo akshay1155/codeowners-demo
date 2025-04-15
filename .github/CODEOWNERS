@@ -1,3 +1,4 @@
 # CODEOWNERS
+/.github/ @akshay1155
 README.md @akshayreddy015
 /src/ @akshayreddy015
