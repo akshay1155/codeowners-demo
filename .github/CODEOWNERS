@@ -1,5 +1,5 @@
 # CODEOWNERS
+/.github/ @akshayreddy015
 README.md @akshayreddy015
 /src/ @akshayreddy015
-
-# test
+package.json @akshay1155
